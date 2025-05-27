@@ -1,4 +1,4 @@
-# 🛒 Java Console Shopping Cart (College Project)
+# 🛒 Java Console Shopping Cart Project
 
 This is a **Java console-based shopping cart** system like Amazon. It supports user login, product browsing, cart, and order history.
 
